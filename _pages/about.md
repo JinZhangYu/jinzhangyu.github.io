@@ -15,6 +15,7 @@ profile:
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+visitor_tracking: true # include Map Widget
 ---
 
 I am an incoming PhD student (2024 Fall-) in Computer Science at the [University of Southern California](https://viterbischool.usc.edu/),
