@@ -18,11 +18,11 @@ social: true # includes social icons at the bottom of the page
 visitor_tracking: true # include Map Widget
 ---
 
-I am an incoming PhD student (2024 Fall-) in Computer Science at the [University of Southern California](https://viterbischool.usc.edu/),
+I am a first-year PhD student (2024 Fall-) in Computer Science at the [University of Southern California](https://viterbischool.usc.edu/),
 supervised by Prof. [Mohammad Soleymani](https://people.ict.usc.edu/~soleymani/) and Dr. [Wei-Wen(Andrew) Feng](https://scholar.google.com/citations?user=JKWxGfsAAAAJ&hl=en).
 
 I received my Master's degree from [University of Southern California](https://viterbischool.usc.edu/). During my Master's, I took Research Internships at [Motorola Solutions](https://www.motorolasolutions.com/en_us.html) and at [TuSimple](https://www.tusimple.com/).
 Previously, I was a Research Engineer at [YITU Technology](https://www.yitutech.com/en) for one year. Prior to that, I got my Bachelor degree from [Shanghai Jiao Tong University](https://www.ji.sjtu.edu.cn/).
 
-My research interests mainly lie in 2D Perception and Video Understanding, including Multi-Object Tracking, Group Activity Recognition, Face Anonymization, Video Object Detection, and Panoptic Segmentation.
+My research interests mainly lie in Video Perception and Generative Models.
 
